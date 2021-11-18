@@ -22,8 +22,8 @@
   ## How to Contribute
   
 
-  ## Deployed Application
-  https://uoftnotetaker.herokuapp.com/notes
+  ## Link to video
+  https://watch.screencastify.com/v/5s60DafpyEbjmFrPFgrj
 
   ## About Me/Contact Me
   GitHub Link: [GitHub](https://github.com/MichaelDigi)
